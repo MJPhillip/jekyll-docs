@@ -1219,3 +1219,11 @@ h4.panel-title {
   #search-demo-container {
     position: relative;
   }
+
+  #results-container {
+    padding: 10px;
+  }
+
+  #results-container li {
+    padding: 5px 0px;
+  }

@@ -151,7 +151,7 @@ The video below discusses comments.
 
 <a href="https://vimeo.com/489566490/338e17f909" target="_blank">Watch on Vimeo</a>
 
-## Acivities
+## Activities
 
 ### Watch
 
