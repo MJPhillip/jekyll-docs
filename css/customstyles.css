@@ -1201,3 +1201,21 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+/* Added styles */
+.projectTitle {
+    font-size: 2rem;
+    color: #FFF;
+    flex: 1;
+    align-self: center;
+  }
+  
+  .navbar-header {
+    display: flex;
+    flex-direction: row;
+    float:none;
+  }
+
+  #search-demo-container {
+    position: relative;
+  }
