@@ -10,7 +10,7 @@ folder: prog_found
 
 Comparison operators compare their operands (the values on either side of the operator) and return a boolean value.
 
-<img src="/assets/images/programming-foundations/operator.png" alt="variable types" style="max-width: 316px"/>
+<img src="/images/programming-foundations/operator.png" alt="variable types" style="max-width: 316px"/>
 
 ---
 
@@ -130,13 +130,13 @@ We check if a certain condition is true using a comparison operator, and if it i
 
 If it is false, we run different code.
 
-<img src="/assets/images/programming-foundations/conditional-statement.png" alt="conditional statement" style="max-width: 600px"/>
+<img src="/images/programming-foundations/conditional-statement.png" alt="conditional statement" style="max-width: 600px"/>
 
 To carry out the above, we use `if...else statements.`
 
 `if` a certain condition is true, run this code. `else`, run this other code.
 
-<img src="/assets/images/programming-foundations/if-statement.png" alt="if statement" style="max-width: 450px"/>
+<img src="/images/programming-foundations/if-statement.png" alt="if statement" style="max-width: 450px"/>
 
 <a id="if-else-example"></a> Perhaps you need to check whether a user is logged in:
 
