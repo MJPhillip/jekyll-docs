@@ -390,9 +390,3 @@ There are practice questions in the master branch of <a href="https://github.com
 There are example answers in the <a href="https://github.com/NoroffFEU/lesson-task-pf-module2-lesson3/blob/answers/js/script.js" target="_blank">answers branch</a>.
 
 Try the exercises before checking the solutions.
-
----
-
-[Go to lesson 4](lesson-4)
-
----
