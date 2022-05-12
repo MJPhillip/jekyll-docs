@@ -1220,10 +1220,7 @@ h4.panel-title {
     position: relative;
   }
 
-  #results-container {
-    padding: 10px;
-  }
-
   #results-container li {
     padding: 5px 0px;
+    margin: 10px;
   }
