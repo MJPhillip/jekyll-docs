@@ -87,7 +87,7 @@ The variables that we pass in to functions are called `arguments`. We place them
 
 > When we call `console.log("somne value");` the value we want to log is an argument passed to the `log()` function.
 
-Let's add an argument called `theWord` to the `logWord` function:
+Let's add an <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.argument}}">argument</a> called `theWord` to the `logWord` function:
 
 ```js
 function logWord(theWord) {

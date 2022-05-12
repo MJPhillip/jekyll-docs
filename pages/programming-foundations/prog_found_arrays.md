@@ -81,7 +81,7 @@ It would be time consuming to write out the entire array each time we need to ch
 
 ### Adding items to the end of an array using `Array.push()`
 
-We can add new items to the end of an array using the `push` method:
+We can add new items to the end of an array using the `push` <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.method}}">method</a>:
 
 ```js
 // here is the empty array
