@@ -6,7 +6,7 @@ permalink: prog_found_loops.html
 folder: prog_found
 ---
 
-`Loops` are used to do the same thing over and over again.
+`Loops` are used to do the same thing over and over again. We can use them with arrays.
 
 If we wanted to console log a number value from 1 to 3, we could do something like this:
 
@@ -109,3 +109,6 @@ There are practice questions in the master branch of <a href="https://github.com
 There are example answers in the <a href="https://github.com/NoroffFEU/lesson-task-pf-module1-lesson4/tree/answers" target="_blank">answers branch</a>.
 
 Try the exercises before checking the solutions.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NTE0NDg3ODRdfQ==
+-->
