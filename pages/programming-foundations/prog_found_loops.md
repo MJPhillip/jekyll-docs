@@ -6,7 +6,7 @@ permalink: prog_found_loops.html
 folder: prog_found
 ---
 
-`Loops` are used to do the same thing over and over again. We can use them with arrays.
+`Loops` are used to do the same thing over and over again.
 
 If we wanted to console log a number value from 1 to 3, we could do something like this:
 
