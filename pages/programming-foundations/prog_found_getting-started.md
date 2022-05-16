@@ -91,7 +91,7 @@ This is an example of poorly formatted and indented code:
 
 ```js
 console.log(" hello");
-console.log("world");
+	console.log("world");
 ```
 
 This is an example of well-formatted and indented code:
@@ -166,3 +166,6 @@ There is a practice question in the master branch of <a href="https://github.com
 There is an example answer in the <a href="https://github.com/NoroffFEU/lesson-task-pf-module1-lesson1/tree/answer" target="_blank">answer branch</a>.
 
 Try the exercise before checking the solution.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODc5NDgxMDU1XX0=
+-->
