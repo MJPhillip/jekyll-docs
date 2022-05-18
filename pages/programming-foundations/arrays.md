@@ -1,9 +1,10 @@
 ---
 title: Arrays
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_arrays.html
-folder: prog_found
+permalink: programming-foundations/arrays.html
+folder: programming-foundations
 ---
 
 ## Introduction to arrays

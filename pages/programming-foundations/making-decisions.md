@@ -1,9 +1,10 @@
 ---
 title: Making Decisions
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_making-decisions.html
-folder: prog_found
+permalink: programming-foundations/making-decisions.html
+folder: Module 1
 ---
 
 ## Comparison operators

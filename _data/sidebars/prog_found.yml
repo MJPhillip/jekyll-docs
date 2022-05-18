@@ -9,44 +9,44 @@ entries:
         output: web, pdf
         folderitems:
           - title: Getting Started
-            url: /prog_found_getting-started.html
+            url: /programming-foundations/getting-started.html
             output: web
 
           - title: Strings, Numbers, Booleans
-            url: /prog_found_strings-numbers-booleans.html
+            url: /programming-foundations/strings-numbers-booleans.html
             output: web, pdf
 
           - title: Making Decisions
-            url: /prog_found_making-decisions.html
+            url: /programming-foundations/making-decisions.html
             output: web, pdf
 
           - title: Loops
-            url: /prog_found_loops.html
+            url: /programming-foundations/loops.html
             output: web, pdf
 
       - title: Module 2
         output: web, pdf
         folderitems:
           - title: String Properties
-            url: /prog_found_string-properties.html
+            url: /programming-foundations/string-properties.html
             output: web
 
           - title: Arrays
-            url: /prog_found_arrays.html
+            url: /programming-foundations/arrays.html
             output: web, pdf
 
           - title: null, Objects and arrays of objects
-            url: /prog_found_objects-and-arrays-of-objects.html
+            url: /programming-foundations/arrays-of-objects.html
             output: web, pdf
 
           - title: Introduction to Functions
-            url: /prog_found_intro-functions.html
+            url: /programming-foundations/intro-functions.html
             output: web, pdf
 
       - title: Course Assignment
         output: web, pdf
         folderitems:
           - title: Course Assignment
-            url: /prog_found_ca.html
+            url: /programming-foundations/ca.html
             output: web
 # Copyright 2021 Google LLC

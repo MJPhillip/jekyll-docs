@@ -1,8 +1,9 @@
 ---
 title: String properties and methods, multiple if conditions and nested if statements
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_string-properties.html
+permalink: programming-foundations/string-properties.html
 folder: prog_found
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Getting Started
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_getting-started.html
-folder: prog_found
+permalink: programming-foundations/getting-started.html
+folder: Module 1
 ---
 
 ## Introduction

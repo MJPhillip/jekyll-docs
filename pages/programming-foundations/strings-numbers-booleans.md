@@ -1,16 +1,17 @@
 ---
 title: Variables - strings, numbers and booleans
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_strings-numbers-booleans.html
-folder: prog_found
+permalink: programming-foundations/strings-numbers-booleans.html
+folder: Module 1
 ---
 
 Variables are how a programming language stores information in a computer's memory. We can think of them as containers for data and once stored there, we can act on and use this data in other parts of our program.
 
 ##### Variables sitting in the computer's RAM - Random Access Memory
 
-<img src="/assets/images/programming-foundations/variable-containers.png" alt="variable containers" style="max-width: 379px; margin-top: -10px" />
+<img src="../images/programming-foundations/variable-containers.png" alt="variable containers" style="max-width: 379px; margin-top: -10px" />
 
 We are going to look at these types of data that JavaScript variables can store:
 

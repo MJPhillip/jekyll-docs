@@ -10,6 +10,7 @@ search: exclude
 {
 "title": "{{ page.title | escape }}",
 "tags": "{{ page.tags }}",
+"folder": "{{ page.folder }}",
 "keywords": "{{page.keywords}}",
 "url": "{{ page.url | remove: "/"}}",
 "summary": "{{page.summary | strip }}",

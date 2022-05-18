@@ -1,8 +1,9 @@
 ---
 title: Course Assignment
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_ca.html
+permalink: programming-foundations/ca.html
 folder: prog_found
 ---
 

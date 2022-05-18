@@ -1,9 +1,10 @@
 ---
 title: Loops
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_loops.html
-folder: prog_found
+permalink: programming-foundations/loops.html
+folder: Module 1
 ---
 
 `Loops` are used to do the same thing over and over again.

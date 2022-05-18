@@ -1,8 +1,9 @@
 ---
 title: null, Objects and arrays of objects
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_objects-and-arrays-of-objects.html
+permalink: programming-foundations/arrays-of-objects.html
 folder: prog_found
 ---
 

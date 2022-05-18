@@ -1,8 +1,9 @@
 ---
 title: Introduction to Functions
 keywords: sample
+tags: Programming Foundations
 sidebar: prog_found
-permalink: prog_found_intro-functions.html
+permalink: programming-foundations/intro-functions.html
 folder: prog_found
 ---
 
