@@ -119,3 +119,8 @@ margin-top:20px;
 .navbar-inverse .navbar-toggle {
   border-color: #DD0000;
 }
+
+/* Hides tags */
+.tags {
+  display: none;
+}
